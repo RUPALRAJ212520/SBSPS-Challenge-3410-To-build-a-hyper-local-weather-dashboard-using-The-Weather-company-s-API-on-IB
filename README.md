@@ -9,7 +9,6 @@ https://drive.google.com/file/d/1aNwiFdD3WfBvF5muU4_Qh32u4r_rXAyu/view?usp=shari
 
 
 
-
 # node-red-contrib-twc-weather
 Node-RED nodes for The Weather Company and Weather Underground Personal Weather Station APIs
 
